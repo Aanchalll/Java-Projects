@@ -1,3 +1,2 @@
 # Projects
-Projects I've done so far!
-These are the projects that I've made and learned from so much.
+These are the projects that I've worked on and learned from so much till now, many more will be updated soon,Thanks!
